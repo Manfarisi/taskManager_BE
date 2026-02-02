@@ -79,7 +79,7 @@ JWT_SECRET=your_jwt_secret
 🔗 Frontend Repository
 
 Frontend application is available here:
--https://github.com/Manfarisi/taskManager_FE
+-https://github.com/Manfarisi/taskManager_frontend
 
 ---
 
